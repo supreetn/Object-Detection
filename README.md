@@ -35,6 +35,10 @@ The code displays the processed frame with bounding boxes using OpenCV's cv2_ims
 The frame count and status are printed to track progress.
 The video processing continues until the user presses 'q' or until all frames are processed.
 
+The "Mask R-CNN Inception ResNet V2" model is a powerful choice for such tasks, as it can detect and segment objects in images and videos. The code demonstrates the usage of a pre-trained model and showcases how to process and visualize the results in video frames.
+
+
+
 
 
 
