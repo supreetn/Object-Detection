@@ -6,5 +6,5 @@ Mask R-CNN is a popular and powerful model for object detection and segmentation
 - The image is preprocessed to match the model's input requirements, and the perform_object_detection function is used to make predictions. Objects are detected with a specified confidence threshold, and their labels and bounding box coordinates are extracted.
 - This methodology is effective for performing object detection, which has various applications, including image understanding, surveillance, and robotics.
 
-https://github.com/supreetn/Object-Detection/assets/84839204/099658be-7d55-46e0-8723-a5902fb9b67c
+!https://github.com/supreetn/Object-Detection/assets/84839204/099658be-7d55-46e0-8723-a5902fb9b67c
 
